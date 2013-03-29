@@ -16,6 +16,6 @@ Paste it in the url below
 [![MyDesktopBackground](https://www.dropbox.com/s/6nj7ck3u83qvbz0/dimitris.jpg)]
 ```
 to get the effect below in any markdown file
-[![MyDesktopBackground](https://www.dropbox.com/s/6nj7ck3u83qvbz0/dimitris.jpg)]
+[![MyDesktopBackground](https://www.dropbox.com/s/6nj7ck3u83qvbz0/dimitris.jpg)](https://www.dropbox.com/s/6nj7ck3u83qvbz0/dimitris.jpg
 
 
